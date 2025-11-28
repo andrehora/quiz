@@ -1,0 +1,10 @@
+# Qual a capital de MG?
+- BH x
+- Rio
+- SP
+
+# Qual a capital de AL?
+- Recife
+- Maceio x
+- Salvador
+- Aracaju
