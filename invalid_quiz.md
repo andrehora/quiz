@@ -1,4 +1,4 @@
-Invalid quiz:
+Invalid quiz
 - one
 - two
 - three
